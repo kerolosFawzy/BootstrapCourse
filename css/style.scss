@@ -82,6 +82,10 @@ body {
     .modal-header {
         background: $background-dark;
         color: $background-white;
+
+        .close {
+            color: $background-pale;
+        }
     }
 
     .modal-body {
